@@ -1,0 +1,6 @@
+@WebScripting_git_HostAddress = http://localhost:5220
+
+GET {{WebScripting_git_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

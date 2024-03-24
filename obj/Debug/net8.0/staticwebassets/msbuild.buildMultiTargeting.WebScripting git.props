@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebScripting git.props" />
+</Project>
